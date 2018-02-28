@@ -8,4 +8,7 @@ Some more Thoughts?
 I wish the course went a little more depth on the ssh options of github. I need to learn more
 about ssh on my own anyway.
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
+You'd want this because every time git updated, you'd have to deal with merge requests between
+your code and the updated code pushed to the repo by someone else.
