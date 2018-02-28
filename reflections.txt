@@ -4,4 +4,8 @@ How do you feel about Git?
 I think it's interesting and simple. According to everyone in the know, it's a much better
 solution than previous source control solutions.
 
+Some more Thoughts?
+I wish the course went a little more depth on the ssh options of github. I need to learn more
+about ssh on my own anyway.
+
 
