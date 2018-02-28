@@ -1,0 +1,7 @@
+These are my reflections about GIT.
+
+How do you feel about Git?
+I think it's interesting and simple. According to everyone in the know, it's a much better
+solution than previous source control solutions.
+
+
