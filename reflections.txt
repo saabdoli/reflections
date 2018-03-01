@@ -12,3 +12,6 @@ Why might you want to always pull changes manually rather than having Git automa
 
 You'd want this because every time git updated, you'd have to deal with merge requests between
 your code and the updated code pushed to the repo by someone else.
+
+Benefit of having a copy of the last known state of remote locally?
+the benefit is that you can merge any change and know the state of the repo while offline.
